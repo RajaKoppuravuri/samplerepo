@@ -3,6 +3,4 @@ This is version 4
 
 This is even more better	
  
-This is the final version
-hello
-rtakja
+Adding a new line
